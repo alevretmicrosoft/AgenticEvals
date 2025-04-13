@@ -1,0 +1,9 @@
+semantic-kernel==1.27.2
+fastapi==0.115.12
+uvicorn==0.34.0
+requests==2.32.3
+azure-cosmos==4.9.0
+azure-ai-evaluation==1.5.0
+azure-ai-projects==1.0.0b8
+ipykernel==6.29.5
+pandas==2.2.3
