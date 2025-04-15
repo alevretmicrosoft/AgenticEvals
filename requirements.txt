@@ -1,4 +1,4 @@
-semantic-kernel==1.27.2
+semantic-kernel==1.28.0
 fastapi==0.115.12
 uvicorn==0.34.0
 requests==2.32.3
